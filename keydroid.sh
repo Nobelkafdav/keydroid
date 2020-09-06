@@ -42,7 +42,7 @@ printf " | |/ /___ _   _|  _ \ _ __ ___ (_) __| | \n"
 printf " | ' // _ \ | | | | | | '__/ _ \| |/ _\` | \n"
 printf " | . \  __/ |_| | |_| | | | (_) | | (_| | \n"
 printf " |_|\_\___|\__, |____/|_|  \___/|_|\__,_| \n"
-printf "           |___/\e[0m\e[1;92m Author: @thelinuxchoice\e[0m\n"
+printf "           |___/\e[0m\e[1;92m Author: @fr13nds\e[0m\n"
 printf "\n"
 }
 
